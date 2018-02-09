@@ -1,0 +1,33 @@
+"itembuilds"
+{
+	"author"		"FsB"
+	"hero"			"npc_dota_hero_luna"
+	"Title"			"Recommended items for Luna"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			"item"	"item_hand_of_midas"
+			"item"	"item_force_boots"
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			"item"	"item_midas_2"	
+			"item"	"item_aether_lens"	
+			"item"	"item_bloodthorn"
+			"item"	"item_octarine_core"
+			"item"	"item_ultimate_scepter"
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			"item"	"item_blink_boots"
+			"item"	"item_divine_armor"
+			"item"	"item_sunium_lens"
+			"item"	"item_ultimate_scepter"
+			"item"	"item_recipe_purethorn"
+			"item"	"item_octarine_core4"
+			 
+		}
+	}
+}
