@@ -1,0 +1,37 @@
+"itembuilds"
+{
+	"author"		"FsB"
+	"hero"			"npc_dota_hero_alchemist"
+	"Title"			"Recommended items for Alchemist"
+	
+	"Items"
+	{	
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			"item"	"item_hand_of_midas"
+		}
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			"item"	"item_midas_2"
+			"item"	"item_unstable_stone"
+			"item"	"item_force_boots"
+			"item"	"item_octarine_core"
+			"item"	"item_ultimate_scepter"
+		}
+		"#DOTA_Item_Build_Core_Items"
+		{
+			"item"	"item_blink_boots"
+			"item"	"item_divine_armor"
+			"item"	"item_lifesteal2"
+			"item"	"item_recipe_purethorn"
+			"item"	"item_melee_rage"
+			"item"	"item_desolator5"
+		}
+		"#DOTA_Item_Build_Luxury"
+		{
+			"item"	"item_bahamut_claw"
+			"item"	"item_bahamut_chest"
+			"item"	"item_heart_bahamut"
+		}
+	}
+}
